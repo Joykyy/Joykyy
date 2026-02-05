@@ -29,9 +29,10 @@ I enjoy building labs, learn to break things (ethically 😄), and understanding
 ![Virtualization](https://img.shields.io/badge/Virtualization-5A5A5A?style=flat&logo=vmware&logoColor=white)
 ![VMware ESXi](https://img.shields.io/badge/VMware_ESXi-607078?style=flat&logo=vmware&logoColor=white)
 
-➡️ Check my repositories for detailed documentation and screenshots. (Comming Soon)
+➡️ Check my repositories for detailed documentation and screenshots. (Coming Soon)
 
 ## 📫 How to Reach Me
-- 💼 LinkedIn: (Comming Soon)
+- 💼 LinkedIn: (Coming Soon)
+
 
 
