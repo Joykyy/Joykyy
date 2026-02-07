@@ -1,6 +1,6 @@
 # 👋 About Me
 
-🎓 Computer Science student | 💻 IT / Networking / Cybersecurity  
+🎓 Graduated in Computer Science | IT / Networking / Cybersecurity 
 
 ---
 
@@ -33,6 +33,7 @@ I enjoy building labs, learn to break things (ethically 😄), and understanding
 
 ## 📫 How to Reach Me
 - 💼 LinkedIn: (Coming Soon)
+
 
 
 
