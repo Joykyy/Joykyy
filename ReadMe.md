@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a computer science student with hands-on experience in:
+I am a computer science graduate. with hands-on experience in:
 - Networking & system administration
 - Virtualization and lab environments
 - Cybersecurity fundamentals
@@ -29,10 +29,13 @@ I enjoy building labs, learn to break things (ethically 😄), and understanding
 ![Virtualization](https://img.shields.io/badge/Virtualization-5A5A5A?style=flat&logo=vmware&logoColor=white)
 ![VMware ESXi](https://img.shields.io/badge/VMware_ESXi-607078?style=flat&logo=vmware&logoColor=white)
 
+## 📈 More
+Alongside my studies, I am exploring quantitative finance and algorithmic trading through independent research.
 ➡️ Check my repositories for detailed documentation and screenshots. (Coming Soon)
 
 ## 📫 How to Reach Me
 - 💼 LinkedIn: (Coming Soon)
+
 
 
 
