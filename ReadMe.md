@@ -42,10 +42,10 @@ I enjoy building labs, learn to break things (ethically 😄), and understanding
 
 ## 📈 More
 Alongside my studies, I am exploring quantitative finance and algorithmic trading through independent research.
-➡️ Check my repositories for detailed documentation and screenshots. (Coming Soon)
 
 ## 📫 How to Reach Me
 - 💼 LinkedIn: (Coming Soon)
+
 
 
 
