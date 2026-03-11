@@ -12,7 +12,7 @@ I am a computer science graduate. with hands-on experience in:
 - Cybersecurity fundamentals
 - Linux & Windows Server
 
-I enjoy building labs, learn to break things (ethically 😄), and understanding how infrastructure really works.
+I enjoy building labs, learn to break things (ethically 😄), and understanding how infrastructure works.
 
 
 ## 🧠 Skills
@@ -46,6 +46,7 @@ Alongside my studies, I am exploring quantitative finance and algorithmic tradin
 
 ## 📫 How to Reach Me
 - 💼 LinkedIn: (Coming Soon)
+
 
 
 
